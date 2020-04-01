@@ -1,3 +1,29 @@
+上传到github上的千峰教育 react+antd后台管理项目
+
+
+启动本项目需要三个终端
+1.启动mongodb数据库  
+F:\DemoMyapp> cd .\cat-shop-server-public-master\
+F:\DemoMyapp\cat-shop-server-public-master> cd db
+启动命令 mongod --dbpath ./
+
+2.启动后台服务
+F:\DemoMyapp> cd .\cat-shop-server-public-master\
+F:\DemoMyapp\cat-shop-server-public-master> node app.js
+
+3.启动项目
+F:\DemoMyapp> cd .\stu-shop-manager\
+F:\DemoMyapp\stu-shop-manager> npm start
+
+4.管理员
+账号
+admin
+密码
+admin
+
+
+
+
 ## React+Antd 打造在线商城管理系统
 
 ```bash
